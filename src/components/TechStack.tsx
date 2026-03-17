@@ -14,11 +14,6 @@ import {
 const textureLoader = new THREE.TextureLoader();
 const imageUrls = [
   `${import.meta.env.BASE_URL}images/react2.webp`,
-  `${import.meta.env.BASE_URL}images/next2.webp`,
-  `${import.meta.env.BASE_URL}images/node2.webp`,
-  `${import.meta.env.BASE_URL}images/express.webp`,
-  `${import.meta.env.BASE_URL}images/mongo.webp`,
-  `${import.meta.env.BASE_URL}images/mysql.webp`,
   `${import.meta.env.BASE_URL}images/typescript.webp`,
   `${import.meta.env.BASE_URL}images/javascript.webp`,
 ];
