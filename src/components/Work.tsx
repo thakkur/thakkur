@@ -8,31 +8,31 @@ const projects = [
     title: "True Energy",
     category: "Smart EV Charging App",
     tools: "React Native, Redux, Jest, Socket.IO, CodePush",
-    image: "/images/placeholder.webp",
+    image: `${import.meta.env.BASE_URL}images/placeholder.webp`,
   },
   {
     title: "LazyKeto",
     category: "Healthcare & Diet App",
     tools: "React Native, Redux, Jest, Socket.IO",
-    image: "/images/placeholder.webp",
+    image: `${import.meta.env.BASE_URL}images/placeholder.webp`,
   },
   {
     title: "Ask Ken",
     category: "On-Demand Home Services",
     tools: "React Native, JavaScript, REST APIs",
-    image: "/images/placeholder.webp",
+    image: `${import.meta.env.BASE_URL}images/placeholder.webp`,
   },
   {
     title: "TalkToMedic",
     category: "Online Doctor Consultation",
     tools: "React Native, JavaScript, REST APIs",
-    image: "/images/placeholder.webp",
+    image: `${import.meta.env.BASE_URL}images/placeholder.webp`,
   },
   {
     title: "Gig SG",
     category: "Job Posting Platform",
     tools: "React Native, JavaScript, REST APIs",
-    image: "/images/placeholder.webp",
+    image: `${import.meta.env.BASE_URL}images/placeholder.webp`,
   },
 ];
 
